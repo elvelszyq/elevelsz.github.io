@@ -1,0 +1,20 @@
+{
+    "id": "buxia97-ruleapp",
+    "name": "RuleApp文章博客，VIP会员，写作投稿积分商城，付费模块集成，多平台兼容",
+    "displayName": "RuleApp文章博客，VIP会员，写作投稿积分商城，付费模块集成，多平台兼容",
+    "version": "1.3.2",
+    "description": "这是一款开源免费，界面美观的博客/文章/自媒体/新闻资讯/知识付费程序。集VIP会员体系，在线投稿（内置Mardown编辑器），积分商城，付费阅读等模块，基于Typecho开发。",
+    "keywords": [
+        "自媒体",
+        "博客",
+        "新闻",
+        "社区",
+        "typecho"
+    ],
+    "dcloudext": {
+        "category": [
+            "uni-app前端模板",
+            "uni-app前端项目模板"
+        ]
+    }
+}
